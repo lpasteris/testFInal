@@ -1,1 +1,6 @@
+<<<<<<< Aqui resolvi el conflicto
 asdasdasdasdasdasdasdghp_SVXgPTzIcambio de conflictosh9DqX2jUyqI8xz9kzFW7E2DtqJa
+==============================
+
+asdasdasdasdghp_SVXgPTzIsh9asdasdasdasdasdDqX2jUyqI8xz9kzFW7E2DtqJa
+>>>>>>> b4af81cc5f4987afc194cff361bea662645be103
